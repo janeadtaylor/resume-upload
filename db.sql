@@ -17,10 +17,10 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8 */;
 
 --
--- Database: `jt_wlion`
+-- Database: `resumes`
 --
-CREATE DATABASE IF NOT EXISTS `jt_wlion` DEFAULT CHARACTER SET latin1 COLLATE latin1_swedish_ci;
-USE `jt_wlion`;
+CREATE DATABASE IF NOT EXISTS `resumes` DEFAULT CHARACTER SET latin1 COLLATE latin1_swedish_ci;
+USE `resumes`;
 
 -- --------------------------------------------------------
 

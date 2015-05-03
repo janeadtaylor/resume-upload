@@ -6,9 +6,9 @@
 
 class DB {
     //update these values for the given environment
-    private $db = 'jt_wlion';
+    private $db = 'resumes';
     private $host = 'localhost';
-    private $user = 'jt_wlion';
+    private $user = 'resumes';
     private $pass = 'resumes1!';
     public $mysqli;
     
